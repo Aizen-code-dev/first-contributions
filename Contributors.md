@@ -20,6 +20,7 @@
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
+- [Aizen-code-dev](https://github.com/Aizen-code-dev)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [Raul RP](https://github.com/Howl-Stone)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
